@@ -1,3 +1,6 @@
 pdfplumber
 unstructured
 scikit-learn
+langchain
+tiktoken
+matplotlib
