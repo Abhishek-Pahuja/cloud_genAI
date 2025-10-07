@@ -84,3 +84,6 @@ __pypackages__/
 .env
 
 loadlocalenv.py
+
+# /Sample_Data/
+Sample_Data/Agency-files-documents
