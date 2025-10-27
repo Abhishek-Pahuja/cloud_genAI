@@ -1,6 +1,40 @@
-pdfplumber
-unstructured
-scikit-learn
+##############################
+# Core AI / LLM Frameworks
+##############################
 langchain
+langchain-community
+langchain-openai
 tiktoken
+scikit-learn
+
+##############################
+# PDF & Document Processing
+##############################
+pdfplumber
+unstructured[pdf]
+pi-heif
+pillow
+pypdf
+pdfminer.six
+pdf2image
+pytesseract
+
+
+##############################
+# Azure Integration
+##############################
+azure-search-documents
+azure-identity
+
+##############################
+# Visualization & Analysis
+##############################
 matplotlib
+
+# NLP helpers
+nltk==3.8.1
+
+
+# AWS Kendra
+boto3
+botocore
